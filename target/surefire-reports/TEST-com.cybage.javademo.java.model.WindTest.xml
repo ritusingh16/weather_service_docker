@@ -2,8 +2,8 @@
 <testsuite name="com.cybage.javademo.java.model.WindTest" time="0" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_11\jre\bin"/>
-    <property name="java.vm.version" value="25.11-b03"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin"/>
+    <property name="java.vm.version" value="25.77-b03"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
@@ -13,52 +13,50 @@
     <property name="user.script" value=""/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\work\SPRING\weather\weatherversion2\weather_service"/>
-    <property name="java.runtime.version" value="1.8.0_11-b12"/>
+    <property name="user.dir" value="D:\CI_microservice_java\weather_service_ci"/>
+    <property name="java.runtime.version" value="1.8.0_77-b03"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_11\jre\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="C:\Users\jonesa\AppData\Local\Temp\"/>
+    <property name="java.io.tmpdir" value="C:\Users\ritus\AppData\Local\Temp\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
-    <property name="os.name" value="Windows 8.1"/>
-    <property name="maven.ext.class.path" value="/D:/softwares/sts-3.7.1.RELEASE/configuration/org.eclipse.osgi/24/0/.cp/;/D:/softwares/sts-3.7.1.RELEASE/configuration/org.eclipse.osgi/11/0/.cp/"/>
-    <property name="classworlds.conf" value="D:\work\springstsworkspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7959377584706038007.tmp"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\SBS_workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7980407174631573559.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Cybage Software Pvt. Ltd\CybagePCMClient\;D:\softwares\apache-maven-3.3.9\bin;D:\spring\spring-0.5.0.M4\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;D:\softwares\apache-maven-3.3.9\bin;D:\softwares\apache-maven-3.0.3\bin;C:\Program Files (x86)\MySQL\MySQL Server 5.1\bin;C:\Program Files\nodejs;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\Doctrine extensions for PHP\;C:\Program Files\Perforce;C:\Program Files (x86)\Deployd\bin;D:\softwares\tortoise\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\CloudFoundry;C:\Program Files\nodejs\;C:\Program Files (x86)\PDFtk\bin\;D:\softwares\gradle-2.11\bin;C:\Program Files (x86)\Skype\Phone\;D:\softwares\apache-maven-3.0.3\bin;C:\a\junit-4.11.jar;C:\a\hamcrest-core-1.3.jar;C:\Applications\Atlassian\atlassian-plugin-sdk-6.1.0\bin;C:\Program Files\Java\jdk1.8.0_11;C:\Program Files\Java\jdk1.8.0_11\bin;D:\softwares;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Subversion\bin;D:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\Git\bin;D:\apache-maven-3.3.9\bin;C:\Windows\System32;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="6.3"/>
-    <property name="user.home" value="C:\Users\jonesa"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\ritus"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
-    <property name="m2e.buildListener.launchId" value="391969da-6b62-4d1f-b48e-d20657352660"/>
-    <property name="user.name" value="jonesa"/>
-    <property name="java.class.path" value="D:\softwares\apache-maven-3.0.3\boot\plexus-classworlds-2.4.jar"/>
+    <property name="user.name" value="ritus"/>
+    <property name="java.class.path" value="/C:/sts-3.4.0.RELEASE/configuration/org.eclipse.osgi/bundles/1570/1/.cp/jars/plexus-classworlds-2.4.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_11\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Ppom.xml -B clean package"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_77\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="1.8.0_11"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_11\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_11\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_11\jre\classes"/>
+    <property name="java.version" value="1.8.0_77"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_77\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="D:\softwares\apache-maven-3.0.3"/>
+    <property name="maven.home" value="D:\CI_microservice_java\weather_service_ci\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="maven.bootclasspath" value="/C:/sts-3.4.0.RELEASE/configuration/org.eclipse.osgi/bundles/1570/1/.cp/jars/plexus-classworlds-2.4.jar"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="m2e.buildListener.port" value="52639"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>

@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.controller.SpringCloudWeatherApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.253 sec - in com.example.controller.SpringCloudWeatherApplicationTests
