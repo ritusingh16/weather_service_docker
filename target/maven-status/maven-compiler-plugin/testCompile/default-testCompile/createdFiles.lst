@@ -1,0 +1,9 @@
+com\cybage\javademo\java\controller\SpringCloudWeatherApplicationTests.class
+com\cybage\javademo\java\model\TemperatureTest.class
+com\cybage\javademo\java\model\StatusTest.class
+com\cybage\javademo\java\model\WindTest.class
+com\cybage\javademo\java\controller\WeatherApiTests.class
+com\cybage\javademo\java\model\CloudsTest.class
+com\cybage\javademo\java\model\CoordinatesTest.class
+com\cybage\javademo\java\model\SysinfoTest.class
+com\cybage\javademo\java\model\WeatherTest.class

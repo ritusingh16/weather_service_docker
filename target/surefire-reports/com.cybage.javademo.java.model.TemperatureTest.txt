@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cybage.javademo.java.model.TemperatureTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in com.cybage.javademo.java.model.TemperatureTest
