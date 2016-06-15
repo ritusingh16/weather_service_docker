@@ -14,8 +14,10 @@ public class MyConfiguration {
 		return new WebMvcConfigurerAdapter() {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
-				System.out.println("==>Inside the MyConfiguration..");
-				registry.addMapping("/**").allowedOrigins("172.27.59.119").allowedMethods("GET");
+				
+				//registry.addMapping("/**").allowedOrigins("172.27.59.119").allowedMethods("GET");
+				registry.addMapping("/**").allowedOrigins("*").allowedMethods("GET");
+				System.out.println("==>MyConfiguration setup successfully..");
 			}
 		};
 	}

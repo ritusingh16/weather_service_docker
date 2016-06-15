@@ -40,6 +40,7 @@ public class WeatherApi{
 				"http://api.openweathermap.org/data/2.5/weather?q="+city+"&units=Metric"+"&appid="+appid, Weather.class);
 
 		 // Log a simple message
+		System.out.println(weather.getName());
 		log.debug("inside getWeather debug level log");
 	    log.info("inside getWeather info Log");
 	    log.error("inside getWeather error level log");
@@ -47,28 +48,6 @@ public class WeatherApi{
 	    log.info("another info log with {}, {} and {} arguments", 1, "2", 3.0);
         return weather ;
 		}
-	
-	
-	
-	
-	/*@Bean
-	public CorsFilter corsFilter() {
-	    final UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-	    final CorsConfiguration config = new CorsConfiguration();
-	    config.setAllowCredentials(true);
-	    config.addAllowedOrigin("*");
-	    config.addAllowedHeader("*");
-	    config.addAllowedMethod("OPTIONS");
-	    config.addAllowedMethod("HEAD");
-	    config.addAllowedMethod("GET");
-	    config.addAllowedMethod("PUT");
-	    config.addAllowedMethod("POST");
-	    config.addAllowedMethod("DELETE");
-	    config.addAllowedMethod("PATCH");
-	    source.registerCorsConfiguration("/**", config);
-	    return new CorsFilter();
-	}*/
-	
 }
 
 
