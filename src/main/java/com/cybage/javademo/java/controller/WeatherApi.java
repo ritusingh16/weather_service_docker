@@ -41,9 +41,9 @@ public class WeatherApi{
 
 		 // Log a simple message
 		System.out.println(weather.getName());
-		log.debug("inside getWeather debug level log");
+		// log.debug("inside getWeather debug level log");
 	    log.info("inside getWeather info Log");
-	    log.error("inside getWeather error level log");
+	   // log.error("inside getWeather error level log");
 	     // Log a formatted string with parameters
 	    log.info("another info log with {}, {} and {} arguments", 1, "2", 3.0);
         return weather ;
