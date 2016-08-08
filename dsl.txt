@@ -5,3 +5,4 @@ need break
 fish
 curry
 party
+git push
