@@ -25,9 +25,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="D:\SBS_workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6587757850339381718.tmp"/>
+    <property name="classworlds.conf" value="D:\SBS_workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6577301555990910079.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Cybage Software Pvt. Ltd\CybagePCMClient\;D:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Subversion\bin;D:\sonar-runner-dist-2.4\sonar-runner-2.4\bin;D:\gradle-1.9-all\gradle-1.9\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\Java\jdk1.8.0_77\bin;D:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\Git\bin;D:\apache-maven-3.3.9\bin;C:\Windows\System32;D:\sonar-runner-dist-2.4\sonar-runner-2.4\bin;D:\gradle-1.9-all\gradle-1.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Cybage Software Pvt. Ltd\CybagePCMClient\;D:\app\CYBADMIN\product\11.2.0\client_1\bin;D:\app\root\product\12.1.0\dbhome_1\bin;D:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Subversion\bin;D:\sonar-runner-dist-2.4\sonar-runner-2.4\bin;D:\gradle-1.9-all\gradle-1.9\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\Java\jdk1.8.0_77\bin;D:\apache-ant-1.8.2\bin;D:\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\Git\bin;D:\apache-maven-3.3.9\bin;C:\Windows\System32;D:\sonar-runner-dist-2.4\sonar-runner-2.4\bin;D:\gradle-1.9-all\gradle-1.9\bin;C:\Program Files\Java\jdk1.8.0_77\bin;D:\apache-ant-1.8.2\bin;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -42,7 +42,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_77\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
